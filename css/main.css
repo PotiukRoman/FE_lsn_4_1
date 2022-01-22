@@ -1,31 +1,9 @@
-/* *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-} */
-
 @import url(reset.css);
 @import url(fonts.css);
-
-.text{
-    width: 60%;
-    min-height: 100px;
-    padding: 10px;
-    margin:50px auto;
-    border: 1px solid black;
-    background-color: bisque;
-    color: white;
-    font-size: 22px;
-    font-family: 'Girassol-Regular', serif;
-    /* font-variation-settings: 'wght' 400; */
-    /* font-family: 'Roboto-Thin', sans-serif; */
-}
 
 .main-block{
     width: 100%;
     height: 600px;
-    /* border: 1px solid black; */
-    /* background-color: aqua; */
     color: white;
     font-size: 90px;
     font-family: 'Girassol-Regular', serif;
@@ -35,41 +13,35 @@
 .equal-block{
     width: 14.285%;
     height: 100%;
-    /* border: 1px solid black; */
-    /* background-color:yellow; */
     float: left;
 }
 
 .letter{
     text-align:center;
+    text-shadow: 2px 0 10px black ;
     margin: 251px auto;
-    background-color: tomato;
 }
 
-.one-block{
-
+.a-block{
+    background: linear-gradient(to top, #952318, #ed1b36);
 }
 
-.two-block{
-
+.r-block{
+    background: linear-gradient(to top, #bf6b84, #325c7e);
 }
 
-.three-block{
-    
+.s-block{
+    background: linear-gradient(to top, #fb8433, #2ee7bd);
 }
 
-.four-block{
-    
+.e-block{
+    background: linear-gradient(to top, #287741, #593d34);
 }
 
-.five-block{
-    
+.n-block{
+    background: linear-gradient(to top, #feecbc, #ee4164);
 }
 
-.six-block{
-    
-}
-
-.seven-block{
-    
+.l-block{
+    background: linear-gradient(to top, #b29e93, #60350c);
 }
