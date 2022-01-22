@@ -1,0 +1,38 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+@import url(reset.css);
+@import url(fonts.css);
+
+.text{
+    width: 60%;
+    min-height: 100px;
+    padding: 10px;
+    margin:50px auto;
+    border: 2px solid black;
+    background-color: bisque;
+    color: white;
+    font-size: 22px;
+    font-family: 'Girassol-Regular', serif;
+    /* font-variation-settings: 'wght' 400; */
+    /* font-family: 'Roboto-Thin', sans-serif; */
+}
+
+.main-block{
+    width: 100%;
+    height: 600px;
+    border: 2px solid black;
+    background-color: aqua;
+    margin: 120px auto;
+}
+
+.equal-block{
+    width: 14.285%;
+    height: 100%;
+    border: 2px solid black;
+    background-color:yellow;
+    float: left;
+}
