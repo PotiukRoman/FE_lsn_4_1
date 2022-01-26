@@ -1,19 +1,4 @@
 @font-face {
-    font-family: 'Roboto';
-    src: url("./fonts/Roboto/Roboto-Regular.ttf");
-}
-
-@font-face {
-    font-family: 'Roboto-Thin';
-    src: url("./fonts/Roboto/Roboto-Thin.ttf");
-}
-
-@font-face {
-    font-family: 'Roboto Slab';
-    src: url("./fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf");
-}
-
-@font-face {
     font-family: 'Girassol-Regular';
     src: url("./fonts/Girassol-Regular/girassol/Girassol-Regular.ttf");
 }
